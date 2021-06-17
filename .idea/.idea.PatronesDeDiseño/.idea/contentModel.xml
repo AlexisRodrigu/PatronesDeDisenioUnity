@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\alexi\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\alexi\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_PatronesDeDiseño.195693082.00" t="ExcludeRecursive" />
+    <e p="D:\User\Documentos\Unity Proyects\PatronesDeDiseño" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PatronesDeDisenio" t="Include">
+          <e p="PatronesDeComportamiento" t="Include">
+            <e p="Mediator" t="Include">
+              <e p="MainMenu.cs" t="Include" />
+              <e p="MenuMediator.cs" t="Include" />
+              <e p="SettingsMenu.cs" t="Include" />
+            </e>
+            <e p="Strategy" t="Include">
+              <e p="InstallerStrategy.cs" t="Include" />
+              <e p="Warriors" t="Include">
+                <e p="DamageableW.cs" t="Include" />
+                <e p="EnemyWarrior.cs" t="Include" />
+                <e p="Warrior.cs" t="Include" />
+              </e>
+              <e p="WeaponWarrior" t="Include">
+                <e p="Arch.cs" t="Include" />
+                <e p="Arrow.cs" t="Include" />
+                <e p="Sword.cs" t="Include" />
+                <e p="WeaponWarrior.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="PatronesDeCreacion" t="Include">
+            <e p="AbstractFactory" t="Include">
+              <e p="Avengers" t="Include">
+                <e p="Avenger.cs" t="Include" />
+                <e p="AvengerConfiguration.cs" t="Include" />
+                <e p="CaptainAmerica.cs" t="Include" />
+                <e p="FactoryAvengers.cs" t="Include" />
+                <e p="IronMan.cs" t="Include" />
+              </e>
+              <e p="BattleFactory.cs" t="Include" />
+              <e p="Consumer.cs" t="Include" />
+              <e p="GameInstaller.cs" t="Include" />
+              <e p="Weapons" t="Include">
+                <e p="FactoryWeapon.cs" t="Include" />
+                <e p="PowerIronMan.cs" t="Include" />
+                <e p="ShieldCaptainAmerica.cs" t="Include" />
+                <e p="Weapon.cs" t="Include" />
+                <e p="WeaponConfiguration.cs" t="Include" />
+              </e>
+            </e>
+            <e p="FactoryMethod" t="Include">
+              <e p="Cyclops.cs" t="Include" />
+              <e p="MutantConfiguration.cs" t="Include" />
+              <e p="Mutants.cs" t="Include" />
+              <e p="MutantsFactory.cs" t="Include" />
+              <e p="SpawnerMutants.cs" t="Include" />
+              <e p="Wolverine.cs" t="Include" />
+            </e>
+            <e p="PatronBuild" t="Include">
+              <e p="Vehicle" t="Include">
+                <e p="Chassis.cs" t="Include" />
+                <e p="Consumer.cs" t="Include" />
+                <e p="ExplosiveChassis.cs" t="Include" />
+                <e p="NormalChassis.cs" t="Include" />
+                <e p="SoftTyre.cs" t="Include" />
+                <e p="Tyre.cs" t="Include" />
+                <e p="TyrePosition.cs" t="Include" />
+                <e p="UI.cs" t="Include" />
+                <e p="Vehicle.cs" t="Include" />
+                <e p="VehicleBuilder.cs" t="Include" />
+                <e p="WetTyre.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="PatronesEstructurales" t="Include">
+            <e p="Decorator" t="Include">
+              <e p="Attack" t="Include">
+                <e p="AttackerDecorator.cs" t="Include" />
+                <e p="FireAttackerDecorator.cs" t="Include" />
+                <e p="IAttacker.cs" t="Include" />
+                <e p="RegularAttack.cs" t="Include" />
+                <e p="WoodAttackerDecorator.cs" t="Include" />
+              </e>
+              <e p="ConsumerDecorator.cs" t="Include" />
+              <e p="Damage" t="Include">
+                <e p="DamageReceiver.cs" t="Include" />
+                <e p="IDamageReceiver.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Facade" t="Include">
+              <e p="Battle" t="Include">
+                <e p="BattleFacade.cs" t="Include" />
+              </e>
+              <e p="EndBattleConsumer.cs" t="Include" />
+              <e p="Hero" t="Include">
+                <e p="HeroSpawner.cs" t="Include" />
+                <e p="HeroUI.cs" t="Include" />
+              </e>
+              <e p="StartBattleConsumer.cs" t="Include" />
+              <e p="Transition" t="Include">
+                <e p="ScreenFade.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RepasoPOO" t="Include">
+          <e p="Carretera.cs" t="Include" />
+          <e p="CocheClass.cs" t="Include" />
+          <e p="Puerta.cs" t="Include" />
+          <e p="Rines.cs" t="Include" />
+          <e p="Ruedas.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PatronesDeDiseño.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
